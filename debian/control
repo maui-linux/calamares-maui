@@ -9,7 +9,7 @@ Vcs-Git: http://github.com/calamares/calamares-debian.git
 Vcs-Browser: https://github.com/calamares/calamares-debian.git
 
 Package: calamares-full
-Architecture: all
+Architecture: amd64
 Depends: calamares, dpkg-dev
 Breaks: calamares-branding, calamares-core-settings
 Replaces: calamares-branding, calamares-core-settings
