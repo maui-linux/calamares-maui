@@ -35,15 +35,14 @@ Presentation
         Image {
             id: background1
             source: "slide1.png"
-            width: 553; height: 332
+            width: 800; height: 480
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
         Text {
             anchors.horizontalCenter: background1.horizontalCenter
             anchors.top: background1.bottom
-            text: "Welcome to Netrunner Debian.<br/>"+
-                  "During the installation, this slideshow will give you a quick introduction."
+            text: ""
             wrapMode: Text.WordWrap
             width: 600
             horizontalAlignment: Text.Center
@@ -55,7 +54,7 @@ Presentation
         Image {
             id: background2
             source: "slide2.png"
-            width: 553; height: 332
+            width: 800; height: 480
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
@@ -76,7 +75,7 @@ Presentation
         Image {
             id: background3
             source: "slide3.png"
-            width: 553; height: 332
+            width: 800; height: 480
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
@@ -97,7 +96,7 @@ Presentation
         Image {
             id: background4
             source: "slide4.png"
-            width: 553; height: 332
+            width: 800; height: 480
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
@@ -118,7 +117,7 @@ Presentation
         Image {
             id: background5
             source: "slide5.png"
-            width: 553; height: 332
+            width: 800; height: 480
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
@@ -139,7 +138,7 @@ Presentation
         Image {
             id: background6
             source: "slide6.png"
-            width: 553; height: 332
+            width: 800; height: 480
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
@@ -160,7 +159,7 @@ Presentation
         Image {
             id: background7
             source: "slide7.png"
-            width: 553; height: 332
+            width: 800; height: 480
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
@@ -181,7 +180,7 @@ Presentation
         Image {
             id: background8
             source: "slide8.png"
-            width: 553; height: 332
+            width: 800; height: 480
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
