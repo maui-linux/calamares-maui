@@ -1,2 +1,2 @@
 # calamares-full
-Netrunner Debian Full specific settings for calamares
+Maui Debian specific settings for calamares

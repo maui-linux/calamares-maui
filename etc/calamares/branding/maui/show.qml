@@ -61,7 +61,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background2.horizontalCenter
             anchors.top: background2.bottom
-            text: "Netrunner is made of free software.<br/>"+
+            text: "Maui is made of free software.<br/>"+
                   "The new KDE Plasma 5 desktop is chosen for its easy of use.<br/>"+
                   "It offers many options to customize in the simplified System Settings."
             wrapMode: Text.WordWrap
@@ -103,7 +103,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background4.horizontalCenter
             anchors.top: background4.bottom
-            text: "Netrunner covers your creativity with many applications such as LibreOffice, CalligraFlow and Gimp.<br/>"+
+            text: "Maui covers your creativity with many applications such as LibreOffice, CalligraFlow and Gimp.<br/>"+
                   "There's Karbon for vector-based pictures and Krita for the pixel-artist in you.<br/>"+
                   "Use Gwenview to organize your photos and Kdenlive for creating your own videos."
             wrapMode: Text.WordWrap
@@ -124,7 +124,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background5.horizontalCenter
             anchors.top: background5.bottom
-            text: "Netrunner can play most video and sound formats out-of-the-box.<br/>"+
+            text: "Maui can play most video and sound formats out-of-the-box.<br/>"+
                   "There is VLC media player to watch movies and handbrake to convert them into a different format.<br/>"+
                   "Use Gmusicbrowser to listen to your local collection and radiotray for your internet music."
             wrapMode: Text.WordWrap
@@ -168,7 +168,7 @@ Presentation
             anchors.top: background7.bottom
             text: "In the FOSS Community, you always find a helping hand.<br/>"+
                   "If you have a question, take a look at our forums.<br/>"+
-                  "<a href=\"http://netrunner.com/forums\" title=\"netrunner.com/forums\">Netrunner Forums</a> You're very much welcome!"
+                  "<a href=\"http://mauilinux.com/forums\" title=\"mauilinux.com/forums\">Maui Forums</a> You're very much welcome!"
             wrapMode: Text.WordWrap
             width: 600
             horizontalAlignment: Text.Center
@@ -187,7 +187,7 @@ Presentation
         Text {
             anchors.horizontalCenter: background8.horizontalCenter
             anchors.top: background8.bottom
-            text: "Netrunner stands on the shoulders of Giants.<br/>"+
+            text: "Maui stands on the shoulders of Giants.<br/>"+
                   "The continuous work of thousands of people make it a reality.<br/>"+
                   "We like to say THANK YOU to everyone involved!"
             wrapMode: Text.WordWrap

@@ -1,0 +1,23 @@
+---
+componentName:  maui
+
+strings:
+    productName:         Maui Debian 
+    shortProductName:    Maui Debian
+    version:             1.0.0-dev
+    shortVersion:        1.0
+    versionedName:       Maui Debian 
+    shortVersionedName:  Maui Debian 1.0
+    bootloaderEntryName: Maui Debian 
+
+images:
+    productLogo:         "maui-debian-logo.png"
+    productIcon:         "maui-debian-icon.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#8497A7"

@@ -16,4 +16,4 @@ Replaces: calamares-branding, calamares-core-settings
 Description: distribution-independent installer framework
  distribution-independent installer framework.
  .
- This package contains the calamares settings and branding for Netrunner Debian Full.
+ This package contains the calamares settings and branding for Maui Debian.
