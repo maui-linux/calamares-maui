@@ -2,13 +2,13 @@
 componentName:  maui
 
 strings:
-    productName:         Maui Debian
-    shortProductName:    Maui Debian
-    version:             1.0.0-dev
-    shortVersion:        1.0
-    versionedName:       Maui Debian
-    shortVersionedName:  Maui Debian 1.0
-    bootloaderEntryName: Maui Debian
+    productName:         Maui 
+    shortProductName:    Maui 
+    version:             2.0.0
+    shortVersion:        2.0
+    versionedName:       Maui
+    shortVersionedName:  Maui 2.0
+    bootloaderEntryName: Maui
 
 images:
     productLogo:         "maui-debian-logo.png"

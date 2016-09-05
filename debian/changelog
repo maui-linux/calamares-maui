@@ -1,3 +1,16 @@
+calamares-maui (0+p8+git20160905.1111) xenial; urgency=medium
+
+  * Updated for Maui 2 (initial version)
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 05 Sep 2016 11:39:10 +0200
+
+calamares-maui (0+p8+git20160628.1410) xenial; urgency=medium
+
+  [ Debian CI ]
+  * Automatic Debian CI Build
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 05 Sep 2016 11:14:46 +0200
+
 calamares-maui (0) UNRELEASED; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
