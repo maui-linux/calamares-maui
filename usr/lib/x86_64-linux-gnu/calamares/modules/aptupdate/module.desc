@@ -1,9 +1,0 @@
-# Module metadata file for dummy process jobmodule
-# Syntax is YAML 1.2
----
-type:       "job"
-name:       "aptupdate"
-interface:  "process"
-chroot:     true
-command:    "apt-get update"
-timeout:    300
