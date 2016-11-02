@@ -2,7 +2,7 @@
 # Syntax is YAML 1.2
 ---
 type:       "job"
-name:       "Apt Update"
+name:       "aptupdate"
 interface:  "process"
 chroot:     true
 command:    "apt-get update"
