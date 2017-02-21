@@ -4,10 +4,10 @@ componentName:  maui
 strings:
     productName:         Maui 
     shortProductName:    Maui 
-    version:             2.0.0
-    shortVersion:        2.0
+    version:             3.0.0
+    shortVersion:        3.0
     versionedName:       Maui
-    shortVersionedName:  Maui 2.0
+    shortVersionedName:  Maui 3.0
     bootloaderEntryName: Maui
 
 images:
